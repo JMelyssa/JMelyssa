@@ -7,7 +7,7 @@ Sou Professora de Ciências
 - Estou como Embaixadora de Programação PR
 - Sou iniciante na linguagem JavaScript, mas estou adorando descobrir que consigo fazer algo
 
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/josyane_lautert_dvz/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josyane_lautert_dvz/)
 
 ![](https://media.tenor.com/LMSugWbwoTkAAAAi/dancing-dean-winchester.gif)
 
