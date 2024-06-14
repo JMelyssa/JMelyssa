@@ -7,4 +7,6 @@ Sou Professora de Ciências
 - Estou como Embaixadora de Programação PR
 - Sou iniciante na linguagem JavaScript, mas estou adorando descobrir que consigo fazer algo
 
+![](https://media.tenor.com/LMSugWbwoTkAAAAi/dancing-dean-winchester.gif)
+
 
